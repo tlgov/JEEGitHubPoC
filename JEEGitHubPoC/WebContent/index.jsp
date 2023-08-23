@@ -13,7 +13,7 @@
 		<table>
 			<tbody>
 				<tr>
-					<td>Please enter your Name:</td>
+					<td>Please enter your name:</td>
 					<td style="width: 70%"><input type="text" name="yourName"
 						size="20"></td>
 				</tr>
